@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AA9E-8BC9
+
+ Directory of C:\Users\Jonson\Desktop\myExp
+
+09-08-2018  10:40 AM    <DIR>          .
+09-08-2018  10:40 AM    <DIR>          ..
+09-08-2018  10:40 AM                 0 ex1.txt
+09-08-2018  10:39 AM                 7 README.md
+               2 File(s)              7 bytes
+               2 Dir(s)  49,687,568,384 bytes free
